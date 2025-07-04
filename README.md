@@ -1,5 +1,4 @@
   <h1>🌍 Landslide Prediction and Analysis</h1>
-  <p><strong>Authors:</strong> Theodore Li, Drew Keely, Devanshu Khadka, Nami Jian</p>
   <p><strong>Date:</strong> October 18, 2024</p>
 
   <h2>📌 Project Overview</h2>
